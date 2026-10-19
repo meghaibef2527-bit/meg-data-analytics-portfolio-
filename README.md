@@ -21,7 +21,7 @@ A financial crime risk analytics project using synthetic customer and transactio
 
 **Note:** The dataset is synthetic; flagged activity represents analytical indicators, not confirmed financial crime.
 
-[View Project] [https://github.com/meghaibef2527-bit/AML-transaction-monitoring]
+[View Project] (https://github.com/meghaibef2527-bit/AML-transaction-monitoring)
 
 ### 2. Banking Sector Financial Performance Analysis
 
@@ -35,7 +35,7 @@ An analysis of quarterly banking-sector performance, comparing Public Sector Und
 - Visualised quarterly trends to identify differences between the two banking sectors.
 - Used the analysis to develop evidence-based observations about banking performance.
 
-[View Banking Analysis Project] - [https://github.com/meghaibef2527-bit/Banking-Performance-Analysis]
+[View Banking Analysis Project] - (https://github.com/meghaibef2527-bit/Banking-Performance-Analysis)
 
 ### 3. Multimodal Logistics Cost & Route Optimisation
 
