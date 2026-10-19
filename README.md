@@ -21,7 +21,7 @@ A financial crime risk analytics project using synthetic customer and transactio
 
 **Note:** The dataset is synthetic; flagged activity represents analytical indicators, not confirmed financial crime.
 
-[View Project] (https://github.com/meghaibef2527-bit/AML-transaction-monitoring)
+[View AML Project](https://github.com/meghaibef2527-bit/AML-transaction-monitering)
 
 ### 2. Banking Sector Financial Performance Analysis
 
